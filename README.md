@@ -328,6 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
+2. ⭐ Starred [NAMATOVU-CHRISTINE/sms-spam-detection](https://github.com/NAMATOVU-CHRISTINE/sms-spam-detection)<br>
+3. ⭐ Starred [NAMATOVU-CHRISTINE/UESA](https://github.com/NAMATOVU-CHRISTINE/UESA)<br>
+4. ⭐ Starred [NAMATOVU-CHRISTINE/RisePoint](https://github.com/NAMATOVU-CHRISTINE/RisePoint)<br>
+5. ⭐ Starred [NAMATOVU-CHRISTINE/verbose-adventure.github.io](https://github.com/NAMATOVU-CHRISTINE/verbose-adventure.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
