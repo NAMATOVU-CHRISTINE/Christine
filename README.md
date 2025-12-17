@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
-2. ⭐ Starred [NAMATOVU-CHRISTINE/sms-spam-detection](https://github.com/NAMATOVU-CHRISTINE/sms-spam-detection)<br>
-3. ⭐ Starred [NAMATOVU-CHRISTINE/UESA](https://github.com/NAMATOVU-CHRISTINE/UESA)<br>
-4. ⭐ Starred [NAMATOVU-CHRISTINE/RisePoint](https://github.com/NAMATOVU-CHRISTINE/RisePoint)<br>
-5. ⭐ Starred [NAMATOVU-CHRISTINE/verbose-adventure.github.io](https://github.com/NAMATOVU-CHRISTINE/verbose-adventure.github.io)<br>
+1. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
+2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
+3. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
+4. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
+5. ⭐ Starred [DevMubzly/kitchen-interface-mfc](https://github.com/DevMubzly/kitchen-interface-mfc)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
