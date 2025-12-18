@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
-2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
-3. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
-4. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
-5. ⭐ Starred [DevMubzly/kitchen-interface-mfc](https://github.com/DevMubzly/kitchen-interface-mfc)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/PDFMagic](https://github.com/NAMATOVU-CHRISTINE/PDFMagic)<br>
+2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/PDFMagic](https://github.com/NAMATOVU-CHRISTINE/PDFMagic)<br>
+3. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/PDFMagic](https://github.com/NAMATOVU-CHRISTINE/PDFMagic)<br>
+4. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/PDFMagic](https://github.com/NAMATOVU-CHRISTINE/PDFMagic)<br>
+5. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/PDFMagic](https://github.com/NAMATOVU-CHRISTINE/PDFMagic)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
