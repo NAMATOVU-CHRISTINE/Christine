@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/NAMATOVU-CHRISTINE](https://github.com/NAMATOVU-CHRISTINE/NAMATOVU-CHRISTINE)<br>
-2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/NAMATOVU-CHRISTINE](https://github.com/NAMATOVU-CHRISTINE/NAMATOVU-CHRISTINE)<br>
-3. ⭐ Starred [NAMATOVU-CHRISTINE/sigma](https://github.com/NAMATOVU-CHRISTINE/sigma)<br>
-4. 🔱 Forked [NAMATOVU-CHRISTINE/sigma](https://github.com/NAMATOVU-CHRISTINE/sigma) from [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma)<br>
-5. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/NAMATOVU-CHRISTINE](https://github.com/NAMATOVU-CHRISTINE/NAMATOVU-CHRISTINE)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/christineportfolio](https://github.com/NAMATOVU-CHRISTINE/christineportfolio)<br>
+2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/christineportfolio](https://github.com/NAMATOVU-CHRISTINE/christineportfolio)<br>
+3. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/christineportfolio](https://github.com/NAMATOVU-CHRISTINE/christineportfolio)<br>
+4. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/christineportfolio](https://github.com/NAMATOVU-CHRISTINE/christineportfolio)<br>
+5. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/christineportfolio](https://github.com/NAMATOVU-CHRISTINE/christineportfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
