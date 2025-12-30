@@ -328,10 +328,10 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NAMATOVU-CHRISTINE/christineportfolio](https://github.com/NAMATOVU-CHRISTINE/christineportfolio)<br>
-2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/christineportfolio](https://github.com/NAMATOVU-CHRISTINE/christineportfolio)<br>
+1. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/PDFMagic](https://github.com/NAMATOVU-CHRISTINE/PDFMagic)<br>
+2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/PDFMagic](https://github.com/NAMATOVU-CHRISTINE/PDFMagic)<br>
 3. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/christineportfolio](https://github.com/NAMATOVU-CHRISTINE/christineportfolio)<br>
-4. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/christineportfolio](https://github.com/NAMATOVU-CHRISTINE/christineportfolio)<br>
+4. ⭐ Starred [NAMATOVU-CHRISTINE/christineportfolio](https://github.com/NAMATOVU-CHRISTINE/christineportfolio)<br>
 5. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/christineportfolio](https://github.com/NAMATOVU-CHRISTINE/christineportfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
