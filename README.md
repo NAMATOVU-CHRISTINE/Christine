@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/PDFMagic](https://github.com/NAMATOVU-CHRISTINE/PDFMagic)<br>
+1. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
 2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
 3. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
-4. ⭐ Starred [DevMubzly/job_alerts_agent](https://github.com/DevMubzly/job_alerts_agent)<br>
-5. ⭐ Starred [DevMubzly/ai-mini-project-BCS3](https://github.com/DevMubzly/ai-mini-project-BCS3)<br>
+4. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
+5. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
