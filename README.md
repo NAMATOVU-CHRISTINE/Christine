@@ -328,8 +328,8 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
-2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
+1. ⬆️ Pushed undefined commit(s) to [michealamanya/Sexual-harassment-management-application-](https://github.com/michealamanya/Sexual-harassment-management-application-)<br>
+2. ⬆️ Pushed undefined commit(s) to [michealamanya/Sexual-harassment-management-application-](https://github.com/michealamanya/Sexual-harassment-management-application-)<br>
 3. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
 4. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
 5. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/ExpenseTrack](https://github.com/NAMATOVU-CHRISTINE/ExpenseTrack)<br>
