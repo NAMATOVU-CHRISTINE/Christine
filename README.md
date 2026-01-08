@@ -329,10 +329,10 @@ mindmap
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [michealamanya/Sexual-harassment-management-application-](https://github.com/michealamanya/Sexual-harassment-management-application-)<br>
-2. ⭐ Starred [NAMATOVU-CHRISTINE/Full-Stack-Personal-Expense-Tracker](https://github.com/NAMATOVU-CHRISTINE/Full-Stack-Personal-Expense-Tracker)<br>
-3. 🔱 Forked [NAMATOVU-CHRISTINE/Full-Stack-Personal-Expense-Tracker](https://github.com/NAMATOVU-CHRISTINE/Full-Stack-Personal-Expense-Tracker) from [kollisaicharanreddy/Full-Stack-Personal-Expense-Tracker](https://github.com/kollisaicharanreddy/Full-Stack-Personal-Expense-Tracker)<br>
-4. ⭐ Starred [kollisaicharanreddy/Full-Stack-Personal-Expense-Tracker](https://github.com/kollisaicharanreddy/Full-Stack-Personal-Expense-Tracker)<br>
-5. ⭐ Starred [NAMATOVU-CHRISTINE/datasharing](https://github.com/NAMATOVU-CHRISTINE/datasharing)<br>
+2. ⬆️ Pushed undefined commit(s) to [michealamanya/Sexual-harassment-management-application-](https://github.com/michealamanya/Sexual-harassment-management-application-)<br>
+3. ⭐ Starred [NAMATOVU-CHRISTINE/Full-Stack-Personal-Expense-Tracker](https://github.com/NAMATOVU-CHRISTINE/Full-Stack-Personal-Expense-Tracker)<br>
+4. 🔱 Forked [NAMATOVU-CHRISTINE/Full-Stack-Personal-Expense-Tracker](https://github.com/NAMATOVU-CHRISTINE/Full-Stack-Personal-Expense-Tracker) from [kollisaicharanreddy/Full-Stack-Personal-Expense-Tracker](https://github.com/kollisaicharanreddy/Full-Stack-Personal-Expense-Tracker)<br>
+5. ⭐ Starred [kollisaicharanreddy/Full-Stack-Personal-Expense-Tracker](https://github.com/kollisaicharanreddy/Full-Stack-Personal-Expense-Tracker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
