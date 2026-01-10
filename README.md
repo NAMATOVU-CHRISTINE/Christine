@@ -328,10 +328,10 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NAMATOVU-CHRISTINE/vaderSentiment](https://github.com/NAMATOVU-CHRISTINE/vaderSentiment)<br>
-2. 🔱 Forked [NAMATOVU-CHRISTINE/vaderSentiment](https://github.com/NAMATOVU-CHRISTINE/vaderSentiment) from [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment)<br>
-3. ⭐ Starred [NAMATOVU-CHRISTINE/sentimentr](https://github.com/NAMATOVU-CHRISTINE/sentimentr)<br>
-4. 🔱 Forked [NAMATOVU-CHRISTINE/sentimentr](https://github.com/NAMATOVU-CHRISTINE/sentimentr) from [trinker/sentimentr](https://github.com/trinker/sentimentr)<br>
+1. ⬆️ Pushed undefined commit(s) to [michealamanya/Sexual-harassment-management-application-](https://github.com/michealamanya/Sexual-harassment-management-application-)<br>
+2. ⬆️ Pushed undefined commit(s) to [michealamanya/Sexual-harassment-management-application-](https://github.com/michealamanya/Sexual-harassment-management-application-)<br>
+3. ⬆️ Pushed undefined commit(s) to [michealamanya/Sexual-harassment-management-application-](https://github.com/michealamanya/Sexual-harassment-management-application-)<br>
+4. ⬆️ Pushed undefined commit(s) to [michealamanya/Sexual-harassment-management-application-](https://github.com/michealamanya/Sexual-harassment-management-application-)<br>
 5. ⬆️ Pushed undefined commit(s) to [michealamanya/Sexual-harassment-management-application-](https://github.com/michealamanya/Sexual-harassment-management-application-)<br>
 <!--RECENT_ACTIVITY:end-->
 
