@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [michealamanya/Sexual-harassment-management-application-](https://github.com/michealamanya/Sexual-harassment-management-application-)<br>
-2. ⬆️ Pushed undefined commit(s) to [michealamanya/Sexual-harassment-management-application-](https://github.com/michealamanya/Sexual-harassment-management-application-)<br>
-3. ⬆️ Pushed undefined commit(s) to [michealamanya/Sexual-harassment-management-application-](https://github.com/michealamanya/Sexual-harassment-management-application-)<br>
-4. ⬆️ Pushed undefined commit(s) to [michealamanya/Sexual-harassment-management-application-](https://github.com/michealamanya/Sexual-harassment-management-application-)<br>
-5. ⬆️ Pushed undefined commit(s) to [michealamanya/Sexual-harassment-management-application-](https://github.com/michealamanya/Sexual-harassment-management-application-)<br>
+1. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
+2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
+3. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
+4. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
+5. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
