@@ -328,9 +328,9 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
-2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
-3. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/Alumni-Management-System](https://github.com/NAMATOVU-CHRISTINE/Alumni-Management-System)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/Alumni-Management-System](https://github.com/NAMATOVU-CHRISTINE/Alumni-Management-System) from [ranajunaidhashim/Alumni-Management-System](https://github.com/ranajunaidhashim/Alumni-Management-System)<br>
+3. ⭐ Starred [ranajunaidhashim/Alumni-Management-System](https://github.com/ranajunaidhashim/Alumni-Management-System)<br>
 4. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
 5. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
 <!--RECENT_ACTIVITY:end-->
