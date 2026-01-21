@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ChrisWalt3r/Report-sexual-harassment-app](https://github.com/ChrisWalt3r/Report-sexual-harassment-app)<br>
-2. 🤝 Became collaborator on [ChrisWalt3r/Report-sexual-harassment-app](https://github.com/ChrisWalt3r/Report-sexual-harassment-app)<br>
-3. ⭐ Starred [queenpink25/carelink-UG](https://github.com/queenpink25/carelink-UG)<br>
-4. 🔱 Forked [NAMATOVU-CHRISTINE/Report-sexualapp](https://github.com/NAMATOVU-CHRISTINE/Report-sexualapp) from [ChrisWalt3r/Report-sexual-harassment-app](https://github.com/ChrisWalt3r/Report-sexual-harassment-app)<br>
-5. ⭐ Starred [Ikirizaj/MyPortfolio](https://github.com/Ikirizaj/MyPortfolio)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/JOSA-Alumni-Community-Website-](https://github.com/NAMATOVU-CHRISTINE/JOSA-Alumni-Community-Website-)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/JOSA-Alumni-Community-Website-](https://github.com/NAMATOVU-CHRISTINE/JOSA-Alumni-Community-Website-) from [NamatovuChristineMaria123/JOSA-Alumni-Community-Website-](https://github.com/NamatovuChristineMaria123/JOSA-Alumni-Community-Website-)<br>
+3. ⭐ Starred [NamatovuChristineMaria123/JOSA-Alumni-Community-Website-](https://github.com/NamatovuChristineMaria123/JOSA-Alumni-Community-Website-)<br>
+4. ⭐ Starred [NamatovuChristineMaria123/NamatovuChristineMaria123](https://github.com/NamatovuChristineMaria123/NamatovuChristineMaria123)<br>
+5. ⬆️ Pushed undefined commit(s) to [ChrisWalt3r/Report-sexual-harassment-app](https://github.com/ChrisWalt3r/Report-sexual-harassment-app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
