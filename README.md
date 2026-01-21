@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Ikirizaj/MyPortfolio](https://github.com/Ikirizaj/MyPortfolio)<br>
-2. ⭐ Starred [NAMATOVU-CHRISTINE/Alumni-Management-System](https://github.com/NAMATOVU-CHRISTINE/Alumni-Management-System)<br>
-3. 🔱 Forked [NAMATOVU-CHRISTINE/Alumni-Management-System](https://github.com/NAMATOVU-CHRISTINE/Alumni-Management-System) from [ranajunaidhashim/Alumni-Management-System](https://github.com/ranajunaidhashim/Alumni-Management-System)<br>
-4. ⭐ Starred [ranajunaidhashim/Alumni-Management-System](https://github.com/ranajunaidhashim/Alumni-Management-System)<br>
-5. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
+1. 🔱 Forked [NAMATOVU-CHRISTINE/Report-sexualapp](https://github.com/NAMATOVU-CHRISTINE/Report-sexualapp) from [ChrisWalt3r/Report-sexual-harassment-app](https://github.com/ChrisWalt3r/Report-sexual-harassment-app)<br>
+2. ⭐ Starred [Ikirizaj/MyPortfolio](https://github.com/Ikirizaj/MyPortfolio)<br>
+3. ⭐ Starred [NAMATOVU-CHRISTINE/Alumni-Management-System](https://github.com/NAMATOVU-CHRISTINE/Alumni-Management-System)<br>
+4. 🔱 Forked [NAMATOVU-CHRISTINE/Alumni-Management-System](https://github.com/NAMATOVU-CHRISTINE/Alumni-Management-System) from [ranajunaidhashim/Alumni-Management-System](https://github.com/ranajunaidhashim/Alumni-Management-System)<br>
+5. ⭐ Starred [ranajunaidhashim/Alumni-Management-System](https://github.com/ranajunaidhashim/Alumni-Management-System)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
