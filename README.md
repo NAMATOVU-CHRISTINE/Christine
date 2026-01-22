@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ishandutta2007/windows-cleaner](https://github.com/ishandutta2007/windows-cleaner)<br>
-2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
-3. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
-4. ⭐ Starred [NAMATOVU-CHRISTINE/JOSA-Alumni-Community-Website-](https://github.com/NAMATOVU-CHRISTINE/JOSA-Alumni-Community-Website-)<br>
-5. 🔱 Forked [NAMATOVU-CHRISTINE/JOSA-Alumni-Community-Website-](https://github.com/NAMATOVU-CHRISTINE/JOSA-Alumni-Community-Website-) from [NamatovuChristineMaria123/JOSA-Alumni-Community-Website-](https://github.com/NamatovuChristineMaria123/JOSA-Alumni-Community-Website-)<br>
+1. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
+2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/RefactoryProjectAssignment](https://github.com/NAMATOVU-CHRISTINE/RefactoryProjectAssignment)<br>
+3. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/RefactoryProjectAssignment](https://github.com/NAMATOVU-CHRISTINE/RefactoryProjectAssignment)<br>
+4. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/RefactoryProjectAssignment](https://github.com/NAMATOVU-CHRISTINE/RefactoryProjectAssignment)<br>
+5. ⭐ Starred [NAMATOVU-CHRISTINE/RefactoryProjectAssignment](https://github.com/NAMATOVU-CHRISTINE/RefactoryProjectAssignment)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
