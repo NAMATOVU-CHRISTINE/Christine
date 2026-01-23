@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
-2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/RefactoryProjectAssignment](https://github.com/NAMATOVU-CHRISTINE/RefactoryProjectAssignment)<br>
-3. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/RefactoryProjectAssignment](https://github.com/NAMATOVU-CHRISTINE/RefactoryProjectAssignment)<br>
-4. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/RefactoryProjectAssignment](https://github.com/NAMATOVU-CHRISTINE/RefactoryProjectAssignment)<br>
-5. ⭐ Starred [NAMATOVU-CHRISTINE/RefactoryProjectAssignment](https://github.com/NAMATOVU-CHRISTINE/RefactoryProjectAssignment)<br>
+1. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
+2. ⭐ Starred [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)<br>
+3. ⭐ Starred [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)<br>
+4. ⭐ Starred [AstronDaniel/CampusVault](https://github.com/AstronDaniel/CampusVault)<br>
+5. ⭐ Starred [tanishkadeep/landing-page](https://github.com/tanishkadeep/landing-page)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
