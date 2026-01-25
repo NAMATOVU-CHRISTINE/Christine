@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
-2. ⭐ Starred [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)<br>
-3. ⭐ Starred [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)<br>
-4. ⭐ Starred [AstronDaniel/CampusVault](https://github.com/AstronDaniel/CampusVault)<br>
-5. ⭐ Starred [tanishkadeep/landing-page](https://github.com/tanishkadeep/landing-page)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/spykesML](https://github.com/NAMATOVU-CHRISTINE/spykesML)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/spykesML](https://github.com/NAMATOVU-CHRISTINE/spykesML) from [KordingLab/spykesML](https://github.com/KordingLab/spykesML)<br>
+3. ⭐ Starred [KordingLab/spykesML](https://github.com/KordingLab/spykesML)<br>
+4. ⭐ Starred [NAMATOVU-CHRISTINE/spykes](https://github.com/NAMATOVU-CHRISTINE/spykes)<br>
+5. 🔱 Forked [NAMATOVU-CHRISTINE/spykes](https://github.com/NAMATOVU-CHRISTINE/spykes) from [KordingLab/spykes](https://github.com/KordingLab/spykes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
