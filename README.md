@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NAMATOVU-CHRISTINE/perception](https://github.com/NAMATOVU-CHRISTINE/perception)<br>
-2. 🔱 Forked [NAMATOVU-CHRISTINE/perception](https://github.com/NAMATOVU-CHRISTINE/perception) from [thorn-oss/perception](https://github.com/thorn-oss/perception)<br>
-3. ⭐ Starred [thorn-oss/perception](https://github.com/thorn-oss/perception)<br>
-4. ⭐ Starred [NAMATOVU-CHRISTINE/apachecn-sec-zh](https://github.com/NAMATOVU-CHRISTINE/apachecn-sec-zh)<br>
-5. 🔱 Forked [NAMATOVU-CHRISTINE/apachecn-sec-zh](https://github.com/NAMATOVU-CHRISTINE/apachecn-sec-zh) from [apachecn/apachecn-sec-zh](https://github.com/apachecn/apachecn-sec-zh)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/expense-tracker-mern](https://github.com/NAMATOVU-CHRISTINE/expense-tracker-mern)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/expense-tracker-mern](https://github.com/NAMATOVU-CHRISTINE/expense-tracker-mern) from [bradtraversy/expense-tracker-mern](https://github.com/bradtraversy/expense-tracker-mern)<br>
+3. ⭐ Starred [bradtraversy/expense-tracker-mern](https://github.com/bradtraversy/expense-tracker-mern)<br>
+4. ⭐ Starred [NAMATOVU-CHRISTINE/profanalyzer](https://github.com/NAMATOVU-CHRISTINE/profanalyzer)<br>
+5. 🔱 Forked [NAMATOVU-CHRISTINE/profanalyzer](https://github.com/NAMATOVU-CHRISTINE/profanalyzer) from [michaeledgar/profanalyzer](https://github.com/michaeledgar/profanalyzer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
