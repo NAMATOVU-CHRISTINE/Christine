@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NAMATOVU-CHRISTINE/expense-tracker-mern](https://github.com/NAMATOVU-CHRISTINE/expense-tracker-mern)<br>
-2. 🔱 Forked [NAMATOVU-CHRISTINE/expense-tracker-mern](https://github.com/NAMATOVU-CHRISTINE/expense-tracker-mern) from [bradtraversy/expense-tracker-mern](https://github.com/bradtraversy/expense-tracker-mern)<br>
-3. ⭐ Starred [bradtraversy/expense-tracker-mern](https://github.com/bradtraversy/expense-tracker-mern)<br>
-4. ⭐ Starred [NAMATOVU-CHRISTINE/profanalyzer](https://github.com/NAMATOVU-CHRISTINE/profanalyzer)<br>
-5. 🔱 Forked [NAMATOVU-CHRISTINE/profanalyzer](https://github.com/NAMATOVU-CHRISTINE/profanalyzer) from [michaeledgar/profanalyzer](https://github.com/michaeledgar/profanalyzer)<br>
+1. ⭐ Starred [thinkroth/Sentimental](https://github.com/thinkroth/Sentimental)<br>
+2. ⭐ Starred [NAMATOVU-CHRISTINE/sentimentalizer](https://github.com/NAMATOVU-CHRISTINE/sentimentalizer)<br>
+3. 🔱 Forked [NAMATOVU-CHRISTINE/sentimentalizer](https://github.com/NAMATOVU-CHRISTINE/sentimentalizer) from [malavbhavsar/sentimentalizer](https://github.com/malavbhavsar/sentimentalizer)<br>
+4. ⭐ Starred [malavbhavsar/sentimentalizer](https://github.com/malavbhavsar/sentimentalizer)<br>
+5. ⭐ Starred [NAMATOVU-CHRISTINE/sentimental](https://github.com/NAMATOVU-CHRISTINE/sentimental)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
