@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [thinkroth/Sentimental](https://github.com/thinkroth/Sentimental)<br>
-2. ⭐ Starred [NAMATOVU-CHRISTINE/sentimentalizer](https://github.com/NAMATOVU-CHRISTINE/sentimentalizer)<br>
-3. 🔱 Forked [NAMATOVU-CHRISTINE/sentimentalizer](https://github.com/NAMATOVU-CHRISTINE/sentimentalizer) from [malavbhavsar/sentimentalizer](https://github.com/malavbhavsar/sentimentalizer)<br>
-4. ⭐ Starred [malavbhavsar/sentimentalizer](https://github.com/malavbhavsar/sentimentalizer)<br>
-5. ⭐ Starred [NAMATOVU-CHRISTINE/sentimental](https://github.com/NAMATOVU-CHRISTINE/sentimental)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/happiness-prediction](https://github.com/NAMATOVU-CHRISTINE/happiness-prediction)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/happiness-prediction](https://github.com/NAMATOVU-CHRISTINE/happiness-prediction) from [kudchikarsk/happiness-prediction](https://github.com/kudchikarsk/happiness-prediction)<br>
+3. ⭐ Starred [kudchikarsk/happiness-prediction](https://github.com/kudchikarsk/happiness-prediction)<br>
+4. ⭐ Starred [thinkroth/Sentimental](https://github.com/thinkroth/Sentimental)<br>
+5. ⭐ Starred [NAMATOVU-CHRISTINE/sentimentalizer](https://github.com/NAMATOVU-CHRISTINE/sentimentalizer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
