@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NAMATOVU-CHRISTINE/Xpensor](https://github.com/NAMATOVU-CHRISTINE/Xpensor)<br>
-2. 🔱 Forked [NAMATOVU-CHRISTINE/Xpensor](https://github.com/NAMATOVU-CHRISTINE/Xpensor) from [jxareas/Xpensor](https://github.com/jxareas/Xpensor)<br>
-3. ⭐ Starred [jxareas/Xpensor](https://github.com/jxareas/Xpensor)<br>
-4. ⭐ Starred [NAMATOVU-CHRISTINE/happiness-prediction](https://github.com/NAMATOVU-CHRISTINE/happiness-prediction)<br>
-5. 🔱 Forked [NAMATOVU-CHRISTINE/happiness-prediction](https://github.com/NAMATOVU-CHRISTINE/happiness-prediction) from [kudchikarsk/happiness-prediction](https://github.com/kudchikarsk/happiness-prediction)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/MyExpenses](https://github.com/NAMATOVU-CHRISTINE/MyExpenses)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/MyExpenses](https://github.com/NAMATOVU-CHRISTINE/MyExpenses) from [mtotschnig/MyExpenses](https://github.com/mtotschnig/MyExpenses)<br>
+3. ⭐ Starred [mtotschnig/MyExpenses](https://github.com/mtotschnig/MyExpenses)<br>
+4. ⭐ Starred [NAMATOVU-CHRISTINE/Xpensor](https://github.com/NAMATOVU-CHRISTINE/Xpensor)<br>
+5. 🔱 Forked [NAMATOVU-CHRISTINE/Xpensor](https://github.com/NAMATOVU-CHRISTINE/Xpensor) from [jxareas/Xpensor](https://github.com/jxareas/Xpensor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
