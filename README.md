@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NAMATOVU-CHRISTINE/MyExpenses](https://github.com/NAMATOVU-CHRISTINE/MyExpenses)<br>
-2. 🔱 Forked [NAMATOVU-CHRISTINE/MyExpenses](https://github.com/NAMATOVU-CHRISTINE/MyExpenses) from [mtotschnig/MyExpenses](https://github.com/mtotschnig/MyExpenses)<br>
-3. ⭐ Starred [mtotschnig/MyExpenses](https://github.com/mtotschnig/MyExpenses)<br>
-4. ⭐ Starred [NAMATOVU-CHRISTINE/Xpensor](https://github.com/NAMATOVU-CHRISTINE/Xpensor)<br>
-5. 🔱 Forked [NAMATOVU-CHRISTINE/Xpensor](https://github.com/NAMATOVU-CHRISTINE/Xpensor) from [jxareas/Xpensor](https://github.com/jxareas/Xpensor)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/Smart-Room-Environmental-Monitoring-and-Alert-System](https://github.com/NAMATOVU-CHRISTINE/Smart-Room-Environmental-Monitoring-and-Alert-System)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/Smart-Room-Environmental-Monitoring-and-Alert-System](https://github.com/NAMATOVU-CHRISTINE/Smart-Room-Environmental-Monitoring-and-Alert-System) from [queenpink25/Smart-Room-Environmental-Monitoring-and-Alert-System](https://github.com/queenpink25/Smart-Room-Environmental-Monitoring-and-Alert-System)<br>
+3. ⭐ Starred [queenpink25/Smart-Room-Environmental-Monitoring-and-Alert-System](https://github.com/queenpink25/Smart-Room-Environmental-Monitoring-and-Alert-System)<br>
+4. ⭐ Starred [NAMATOVU-CHRISTINE/MyExpenses](https://github.com/NAMATOVU-CHRISTINE/MyExpenses)<br>
+5. 🔱 Forked [NAMATOVU-CHRISTINE/MyExpenses](https://github.com/NAMATOVU-CHRISTINE/MyExpenses) from [mtotschnig/MyExpenses](https://github.com/mtotschnig/MyExpenses)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
