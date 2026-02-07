@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ChrisWalt3r/Report-sexual-harassment-app](https://github.com/ChrisWalt3r/Report-sexual-harassment-app)<br>
-2. ⬆️ Pushed undefined commit(s) to [ChrisWalt3r/Report-sexual-harassment-app](https://github.com/ChrisWalt3r/Report-sexual-harassment-app)<br>
-3. ⭐ Starred [NAMATOVU-CHRISTINE/Smart-Room-Environmental-Monitoring-and-Alert-System](https://github.com/NAMATOVU-CHRISTINE/Smart-Room-Environmental-Monitoring-and-Alert-System)<br>
-4. 🔱 Forked [NAMATOVU-CHRISTINE/Smart-Room-Environmental-Monitoring-and-Alert-System](https://github.com/NAMATOVU-CHRISTINE/Smart-Room-Environmental-Monitoring-and-Alert-System) from [queenpink25/Smart-Room-Environmental-Monitoring-and-Alert-System](https://github.com/queenpink25/Smart-Room-Environmental-Monitoring-and-Alert-System)<br>
-5. ⭐ Starred [queenpink25/Smart-Room-Environmental-Monitoring-and-Alert-System](https://github.com/queenpink25/Smart-Room-Environmental-Monitoring-and-Alert-System)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/linux](https://github.com/NAMATOVU-CHRISTINE/linux)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/linux](https://github.com/NAMATOVU-CHRISTINE/linux) from [torvalds/linux](https://github.com/torvalds/linux)<br>
+3. ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux)<br>
+4. ⭐ Starred [NAMATOVU-CHRISTINE/ExpenseOwl](https://github.com/NAMATOVU-CHRISTINE/ExpenseOwl)<br>
+5. 🔱 Forked [NAMATOVU-CHRISTINE/ExpenseOwl](https://github.com/NAMATOVU-CHRISTINE/ExpenseOwl) from [Tanq16/ExpenseOwl](https://github.com/Tanq16/ExpenseOwl)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
