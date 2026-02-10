@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ChrisWalt3r/Report-sexual-harassment-app](https://github.com/ChrisWalt3r/Report-sexual-harassment-app)<br>
+1. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
 2. ⬆️ Pushed undefined commit(s) to [ChrisWalt3r/Report-sexual-harassment-app](https://github.com/ChrisWalt3r/Report-sexual-harassment-app)<br>
-3. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
-4. ⬆️ Pushed undefined commit(s) to [ChrisWalt3r/Report-sexual-harassment-app](https://github.com/ChrisWalt3r/Report-sexual-harassment-app)<br>
-5. ⭐ Starred [NAMATOVU-CHRISTINE/linux-insides](https://github.com/NAMATOVU-CHRISTINE/linux-insides)<br>
+3. ⬆️ Pushed undefined commit(s) to [ChrisWalt3r/Report-sexual-harassment-app](https://github.com/ChrisWalt3r/Report-sexual-harassment-app)<br>
+4. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
+5. ⬆️ Pushed undefined commit(s) to [ChrisWalt3r/Report-sexual-harassment-app](https://github.com/ChrisWalt3r/Report-sexual-harassment-app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
