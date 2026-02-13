@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
-2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
-3. ⬆️ Pushed undefined commit(s) to [ChrisWalt3r/Report-sexual-harassment-app](https://github.com/ChrisWalt3r/Report-sexual-harassment-app)<br>
-4. ⬆️ Pushed undefined commit(s) to [ChrisWalt3r/Report-sexual-harassment-app](https://github.com/ChrisWalt3r/Report-sexual-harassment-app)<br>
-5. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/Expense_Analyzer](https://github.com/NAMATOVU-CHRISTINE/Expense_Analyzer)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/Expense_Analyzer](https://github.com/NAMATOVU-CHRISTINE/Expense_Analyzer) from [Manishkujire/Expense_Analyzer](https://github.com/Manishkujire/Expense_Analyzer)<br>
+3. ⭐ Starred [Manishkujire/Expense_Analyzer](https://github.com/Manishkujire/Expense_Analyzer)<br>
+4. ⭐ Starred [NAMATOVU-CHRISTINE/ExpenceTracker](https://github.com/NAMATOVU-CHRISTINE/ExpenceTracker)<br>
+5. 🔱 Forked [NAMATOVU-CHRISTINE/ExpenceTracker](https://github.com/NAMATOVU-CHRISTINE/ExpenceTracker) from [catarinaplamadeala/ExpenceTracker](https://github.com/catarinaplamadeala/ExpenceTracker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
