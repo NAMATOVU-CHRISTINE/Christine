@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NAMATOVU-CHRISTINE/Expense_Analyzer](https://github.com/NAMATOVU-CHRISTINE/Expense_Analyzer)<br>
-2. 🔱 Forked [NAMATOVU-CHRISTINE/Expense_Analyzer](https://github.com/NAMATOVU-CHRISTINE/Expense_Analyzer) from [Manishkujire/Expense_Analyzer](https://github.com/Manishkujire/Expense_Analyzer)<br>
-3. ⭐ Starred [Manishkujire/Expense_Analyzer](https://github.com/Manishkujire/Expense_Analyzer)<br>
-4. ⭐ Starred [NAMATOVU-CHRISTINE/ExpenceTracker](https://github.com/NAMATOVU-CHRISTINE/ExpenceTracker)<br>
-5. 🔱 Forked [NAMATOVU-CHRISTINE/ExpenceTracker](https://github.com/NAMATOVU-CHRISTINE/ExpenceTracker) from [catarinaplamadeala/ExpenceTracker](https://github.com/catarinaplamadeala/ExpenceTracker)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/Expencer-ExpenseList-Managment-](https://github.com/NAMATOVU-CHRISTINE/Expencer-ExpenseList-Managment-)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/Expencer-ExpenseList-Managment-](https://github.com/NAMATOVU-CHRISTINE/Expencer-ExpenseList-Managment-) from [0xClint/Expencer-ExpenseList-Managment-](https://github.com/0xClint/Expencer-ExpenseList-Managment-)<br>
+3. ⭐ Starred [vinodsanthu37/budget-expencer](https://github.com/vinodsanthu37/budget-expencer)<br>
+4. ⭐ Starred [NAMATOVU-CHRISTINE/Expense_Analyzer](https://github.com/NAMATOVU-CHRISTINE/Expense_Analyzer)<br>
+5. 🔱 Forked [NAMATOVU-CHRISTINE/Expense_Analyzer](https://github.com/NAMATOVU-CHRISTINE/Expense_Analyzer) from [Manishkujire/Expense_Analyzer](https://github.com/Manishkujire/Expense_Analyzer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
