@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NAMATOVU-CHRISTINE/Expencer-ExpenseList-Managment-](https://github.com/NAMATOVU-CHRISTINE/Expencer-ExpenseList-Managment-)<br>
-2. 🔱 Forked [NAMATOVU-CHRISTINE/Expencer-ExpenseList-Managment-](https://github.com/NAMATOVU-CHRISTINE/Expencer-ExpenseList-Managment-) from [0xClint/Expencer-ExpenseList-Managment-](https://github.com/0xClint/Expencer-ExpenseList-Managment-)<br>
-3. ⭐ Starred [vinodsanthu37/budget-expencer](https://github.com/vinodsanthu37/budget-expencer)<br>
-4. ⭐ Starred [NAMATOVU-CHRISTINE/Expense_Analyzer](https://github.com/NAMATOVU-CHRISTINE/Expense_Analyzer)<br>
-5. 🔱 Forked [NAMATOVU-CHRISTINE/Expense_Analyzer](https://github.com/NAMATOVU-CHRISTINE/Expense_Analyzer) from [Manishkujire/Expense_Analyzer](https://github.com/Manishkujire/Expense_Analyzer)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/csgosl](https://github.com/NAMATOVU-CHRISTINE/csgosl)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/csgosl](https://github.com/NAMATOVU-CHRISTINE/csgosl) from [lenosisnickerboa/csgosl](https://github.com/lenosisnickerboa/csgosl)<br>
+3. ⭐ Starred [lenosisnickerboa/csgosl](https://github.com/lenosisnickerboa/csgosl)<br>
+4. ⭐ Starred [NAMATOVU-CHRISTINE/Expencer-ExpenseList-Managment-](https://github.com/NAMATOVU-CHRISTINE/Expencer-ExpenseList-Managment-)<br>
+5. 🔱 Forked [NAMATOVU-CHRISTINE/Expencer-ExpenseList-Managment-](https://github.com/NAMATOVU-CHRISTINE/Expencer-ExpenseList-Managment-) from [0xClint/Expencer-ExpenseList-Managment-](https://github.com/0xClint/Expencer-ExpenseList-Managment-)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
