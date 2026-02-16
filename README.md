@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NAMATOVU-CHRISTINE/csgosl](https://github.com/NAMATOVU-CHRISTINE/csgosl)<br>
-2. 🔱 Forked [NAMATOVU-CHRISTINE/csgosl](https://github.com/NAMATOVU-CHRISTINE/csgosl) from [lenosisnickerboa/csgosl](https://github.com/lenosisnickerboa/csgosl)<br>
-3. ⭐ Starred [lenosisnickerboa/csgosl](https://github.com/lenosisnickerboa/csgosl)<br>
-4. ⭐ Starred [NAMATOVU-CHRISTINE/Expencer-ExpenseList-Managment-](https://github.com/NAMATOVU-CHRISTINE/Expencer-ExpenseList-Managment-)<br>
-5. 🔱 Forked [NAMATOVU-CHRISTINE/Expencer-ExpenseList-Managment-](https://github.com/NAMATOVU-CHRISTINE/Expencer-ExpenseList-Managment-) from [0xClint/Expencer-ExpenseList-Managment-](https://github.com/0xClint/Expencer-ExpenseList-Managment-)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/SafeLine](https://github.com/NAMATOVU-CHRISTINE/SafeLine)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/SafeLine](https://github.com/NAMATOVU-CHRISTINE/SafeLine) from [chaitin/SafeLine](https://github.com/chaitin/SafeLine)<br>
+3. ⭐ Starred [chaitin/SafeLine](https://github.com/chaitin/SafeLine)<br>
+4. ⭐ Starred [NAMATOVU-CHRISTINE/csgosl](https://github.com/NAMATOVU-CHRISTINE/csgosl)<br>
+5. 🔱 Forked [NAMATOVU-CHRISTINE/csgosl](https://github.com/NAMATOVU-CHRISTINE/csgosl) from [lenosisnickerboa/csgosl](https://github.com/lenosisnickerboa/csgosl)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
