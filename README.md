@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [NAMATOVU-CHRISTINE/AgroChain](https://github.com/NAMATOVU-CHRISTINE/AgroChain) from [kerala-blockchain-academy/AgroChain](https://github.com/kerala-blockchain-academy/AgroChain)<br>
-2. ⭐ Starred [NAMATOVU-CHRISTINE/SafeLine](https://github.com/NAMATOVU-CHRISTINE/SafeLine)<br>
-3. 🔱 Forked [NAMATOVU-CHRISTINE/SafeLine](https://github.com/NAMATOVU-CHRISTINE/SafeLine) from [chaitin/SafeLine](https://github.com/chaitin/SafeLine)<br>
-4. ⭐ Starred [chaitin/SafeLine](https://github.com/chaitin/SafeLine)<br>
-5. ⭐ Starred [NAMATOVU-CHRISTINE/csgosl](https://github.com/NAMATOVU-CHRISTINE/csgosl)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/mobile](https://github.com/NAMATOVU-CHRISTINE/mobile)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/mobile](https://github.com/NAMATOVU-CHRISTINE/mobile) from [lichess-org/mobile](https://github.com/lichess-org/mobile)<br>
+3. ⭐ Starred [lichess-org/mobile](https://github.com/lichess-org/mobile)<br>
+4. 🔱 Forked [NAMATOVU-CHRISTINE/AgroChain](https://github.com/NAMATOVU-CHRISTINE/AgroChain) from [kerala-blockchain-academy/AgroChain](https://github.com/kerala-blockchain-academy/AgroChain)<br>
+5. ⭐ Starred [NAMATOVU-CHRISTINE/SafeLine](https://github.com/NAMATOVU-CHRISTINE/SafeLine)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
