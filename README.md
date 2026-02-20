@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NAMATOVU-CHRISTINE/mobile](https://github.com/NAMATOVU-CHRISTINE/mobile)<br>
-2. 🔱 Forked [NAMATOVU-CHRISTINE/mobile](https://github.com/NAMATOVU-CHRISTINE/mobile) from [lichess-org/mobile](https://github.com/lichess-org/mobile)<br>
-3. ⭐ Starred [lichess-org/mobile](https://github.com/lichess-org/mobile)<br>
-4. 🔱 Forked [NAMATOVU-CHRISTINE/AgroChain](https://github.com/NAMATOVU-CHRISTINE/AgroChain) from [kerala-blockchain-academy/AgroChain](https://github.com/kerala-blockchain-academy/AgroChain)<br>
-5. ⭐ Starred [NAMATOVU-CHRISTINE/SafeLine](https://github.com/NAMATOVU-CHRISTINE/SafeLine)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/UAVLogViewer](https://github.com/NAMATOVU-CHRISTINE/UAVLogViewer)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/UAVLogViewer](https://github.com/NAMATOVU-CHRISTINE/UAVLogViewer) from [ArduPilot/UAVLogViewer](https://github.com/ArduPilot/UAVLogViewer)<br>
+3. ⭐ Starred [ArduPilot/UAVLogViewer](https://github.com/ArduPilot/UAVLogViewer)<br>
+4. ⭐ Starred [NAMATOVU-CHRISTINE/mobile](https://github.com/NAMATOVU-CHRISTINE/mobile)<br>
+5. 🔱 Forked [NAMATOVU-CHRISTINE/mobile](https://github.com/NAMATOVU-CHRISTINE/mobile) from [lichess-org/mobile](https://github.com/lichess-org/mobile)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
