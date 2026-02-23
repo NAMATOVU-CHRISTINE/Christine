@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NAMATOVU-CHRISTINE/uavstack](https://github.com/NAMATOVU-CHRISTINE/uavstack)<br>
-2. 🔱 Forked [NAMATOVU-CHRISTINE/uavstack](https://github.com/NAMATOVU-CHRISTINE/uavstack) from [uavorg/uavstack](https://github.com/uavorg/uavstack)<br>
-3. ⭐ Starred [uavorg/uavstack](https://github.com/uavorg/uavstack)<br>
-4. ⭐ Starred [NAMATOVU-CHRISTINE/UAVLogViewer](https://github.com/NAMATOVU-CHRISTINE/UAVLogViewer)<br>
-5. 🔱 Forked [NAMATOVU-CHRISTINE/UAVLogViewer](https://github.com/NAMATOVU-CHRISTINE/UAVLogViewer) from [ArduPilot/UAVLogViewer](https://github.com/ArduPilot/UAVLogViewer)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/FUEL](https://github.com/NAMATOVU-CHRISTINE/FUEL)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/FUEL](https://github.com/NAMATOVU-CHRISTINE/FUEL) from [HKUST-Aerial-Robotics/FUEL](https://github.com/HKUST-Aerial-Robotics/FUEL)<br>
+3. ⭐ Starred [HKUST-Aerial-Robotics/FUEL](https://github.com/HKUST-Aerial-Robotics/FUEL)<br>
+4. ⭐ Starred [NAMATOVU-CHRISTINE/uavstack](https://github.com/NAMATOVU-CHRISTINE/uavstack)<br>
+5. 🔱 Forked [NAMATOVU-CHRISTINE/uavstack](https://github.com/NAMATOVU-CHRISTINE/uavstack) from [uavorg/uavstack](https://github.com/uavorg/uavstack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
