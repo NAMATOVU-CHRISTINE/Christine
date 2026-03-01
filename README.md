@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NAMATOVU-CHRISTINE/rnn-nlu](https://github.com/NAMATOVU-CHRISTINE/rnn-nlu)<br>
-2. 🔱 Forked [NAMATOVU-CHRISTINE/rnn-nlu](https://github.com/NAMATOVU-CHRISTINE/rnn-nlu) from [HadoopIt/rnn-nlu](https://github.com/HadoopIt/rnn-nlu)<br>
-3. ⭐ Starred [HadoopIt/rnn-nlu](https://github.com/HadoopIt/rnn-nlu)<br>
-4. ⭐ Starred [NAMATOVU-CHRISTINE/nlu](https://github.com/NAMATOVU-CHRISTINE/nlu)<br>
-5. 🔱 Forked [NAMATOVU-CHRISTINE/nlu](https://github.com/NAMATOVU-CHRISTINE/nlu) from [JohnSnowLabs/nlu](https://github.com/JohnSnowLabs/nlu)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/LLMR-NLUP](https://github.com/NAMATOVU-CHRISTINE/LLMR-NLUP)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/LLMR-NLUP](https://github.com/NAMATOVU-CHRISTINE/LLMR-NLUP) from [lxfater/LLMR-NLUP](https://github.com/lxfater/LLMR-NLUP)<br>
+3. ⭐ Starred [lxfater/LLMR-NLUP](https://github.com/lxfater/LLMR-NLUP)<br>
+4. ⭐ Starred [NAMATOVU-CHRISTINE/rnn-nlu](https://github.com/NAMATOVU-CHRISTINE/rnn-nlu)<br>
+5. 🔱 Forked [NAMATOVU-CHRISTINE/rnn-nlu](https://github.com/NAMATOVU-CHRISTINE/rnn-nlu) from [HadoopIt/rnn-nlu](https://github.com/HadoopIt/rnn-nlu)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
