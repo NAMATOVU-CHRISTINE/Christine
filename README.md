@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NAMATOVU-CHRISTINE/AgroConnect](https://github.com/NAMATOVU-CHRISTINE/AgroConnect)<br>
-2. 🔱 Forked [NAMATOVU-CHRISTINE/AgroConnect](https://github.com/NAMATOVU-CHRISTINE/AgroConnect) from [Afansyarifudin/AgroConnect](https://github.com/Afansyarifudin/AgroConnect)<br>
-3. ⭐ Starred [Afansyarifudin/AgroConnect](https://github.com/Afansyarifudin/AgroConnect)<br>
-4. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
-5. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/seed-labs](https://github.com/NAMATOVU-CHRISTINE/seed-labs)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/seed-labs](https://github.com/NAMATOVU-CHRISTINE/seed-labs) from [seed-labs/seed-labs](https://github.com/seed-labs/seed-labs)<br>
+3. ⭐ Starred [NAMATOVU-CHRISTINE/AgroConnect](https://github.com/NAMATOVU-CHRISTINE/AgroConnect)<br>
+4. 🔱 Forked [NAMATOVU-CHRISTINE/AgroConnect](https://github.com/NAMATOVU-CHRISTINE/AgroConnect) from [Afansyarifudin/AgroConnect](https://github.com/Afansyarifudin/AgroConnect)<br>
+5. ⭐ Starred [Afansyarifudin/AgroConnect](https://github.com/Afansyarifudin/AgroConnect)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
