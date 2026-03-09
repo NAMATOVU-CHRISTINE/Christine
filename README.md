@@ -329,10 +329,10 @@ mindmap
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
-2. ⭐ Starred [NAMATOVU-CHRISTINE/smartknob-hardware](https://github.com/NAMATOVU-CHRISTINE/smartknob-hardware)<br>
-3. 🔱 Forked [NAMATOVU-CHRISTINE/smartknob-hardware](https://github.com/NAMATOVU-CHRISTINE/smartknob-hardware) from [SeedLabs-it/smartknob-hardware](https://github.com/SeedLabs-it/smartknob-hardware)<br>
-4. ⭐ Starred [seed-labs/seed-labs](https://github.com/seed-labs/seed-labs)<br>
-5. 🔱 Forked [NAMATOVU-CHRISTINE/BufferOverflow-Kit](https://github.com/NAMATOVU-CHRISTINE/BufferOverflow-Kit) from [KINGSABRI/BufferOverflow-Kit](https://github.com/KINGSABRI/BufferOverflow-Kit)<br>
+2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
+3. ⭐ Starred [NAMATOVU-CHRISTINE/smartknob-hardware](https://github.com/NAMATOVU-CHRISTINE/smartknob-hardware)<br>
+4. 🔱 Forked [NAMATOVU-CHRISTINE/smartknob-hardware](https://github.com/NAMATOVU-CHRISTINE/smartknob-hardware) from [SeedLabs-it/smartknob-hardware](https://github.com/SeedLabs-it/smartknob-hardware)<br>
+5. ⭐ Starred [seed-labs/seed-labs](https://github.com/seed-labs/seed-labs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
