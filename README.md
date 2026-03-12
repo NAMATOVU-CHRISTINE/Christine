@@ -331,8 +331,8 @@ mindmap
 1. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
 2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
 3. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
-4. ⭐ Starred [NAMATOVU-CHRISTINE/smartknob-hardware](https://github.com/NAMATOVU-CHRISTINE/smartknob-hardware)<br>
-5. 🔱 Forked [NAMATOVU-CHRISTINE/smartknob-hardware](https://github.com/NAMATOVU-CHRISTINE/smartknob-hardware) from [SeedLabs-it/smartknob-hardware](https://github.com/SeedLabs-it/smartknob-hardware)<br>
+4. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
+5. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
