@@ -173,19 +173,73 @@ class NamatovuChristine:
 
 </div>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NAMATOVU-CHRISTINE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0FA90F&icon_color=ffd700&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=NAMATOVU-CHRISTINE&theme=radical&hide_border=true&background=0D1117&ring=0FA90F&fire=ffd700&currStreakLabel=0FA90F&card_width=500&border_radius=10" alt="GitHub Streak" />
-</p>
+<!-- 🔥 ENHANCED STREAK DISPLAY -->
+<div align="center">
 
-<p align="center">
-  <img width="66%" src="https://github-readme-activity-graph.vercel.app/graph?username=NAMATOVU-CHRISTINE&theme=react-dark&hide_border=true&bg_color=0D1117&color=0FA90F&line=ffd700&point=ffffff&area=true&area_color=0FA90F" alt="Activity Graph" />
-</p>
+### 🔥 **CODING STREAK & ACTIVITY**
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMATOVU-CHRISTINE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0FA90F&text_color=c9d1d9&langs_count=10&hide=html,css" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NAMATOVU-CHRISTINE&theme=radical&utcOffset=3" alt="Productive Time" />
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<img width="100%" src="https://github-readme-streak-stats.vercel.app/?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true&background=0D1117&stroke=0FA90F&ring=0FA90F&fire=ffd700&currStreakNum=ffffff&sideNums=0FA90F&currStreakLabel=0FA90F&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak Stats" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=NAMATOVU-CHRISTINE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0FA90F&icon_color=ffd700&text_color=c9d1d9&count_private=true&include_all_commits=true&custom_title=📊%20GitHub%20Statistics&disable_animations=false" alt="GitHub Stats" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- 📈 ADVANCED CONTRIBUTION VISUALIZATION -->
+<div align="center">
+
+### 📈 **CONTRIBUTION PATTERNS**
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NAMATOVU-CHRISTINE&custom_title=🚀%20Christine's%20Contribution%20Graph&bg_color=0D1117&color=0FA90F&line=ffd700&point=ffffff&area=true&area_color=0FA90F&title_color=0FA90F&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+<!-- 🎯 DETAILED METRICS GRID -->
+<div align="center">
+
+### 🎯 **PERFORMANCE METRICS**
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMATOVU-CHRISTINE&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0FA90F&text_color=c9d1d9&langs_count=8&custom_title=💻%20Most%20Used%20Languages" alt="Top Languages" />
+</td>
+<td width="50%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NAMATOVU-CHRISTINE&theme=github_dark&utcOffset=3" alt="Productive Time" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NAMATOVU-CHRISTINE&theme=github_dark" alt="Profile Summary" />
+</td>
+</tr>
+</table>
+
+<!-- 🌟 MULTIPLE STREAK SERVICES FOR ACCURACY -->
+<div align="center">
+
+### 🌟 **STREAK VERIFICATION (Multiple Sources)**
+
+<img width="48%" src="https://github-readme-streak-stats-git-main-denvercoder1.vercel.app/?user=NAMATOVU-CHRISTINE&theme=dark&hide_border=true&background=0D1117&stroke=0FA90F&ring=0FA90F&fire=ffd700&currStreakNum=ffffff&sideNums=0FA90F&currStreakLabel=0FA90F&sideLabels=c9d1d9&dates=c9d1d9" alt="Primary Streak" />
+<img width="48%" src="https://streak-stats.demolab.com/?user=NAMATOVU-CHRISTINE&theme=radical&hide_border=true&background=0D1117&ring=0FA90F&fire=ffd700&currStreakLabel=0FA90F" alt="Secondary Streak" />
+
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NAMATOVU-CHRISTINE&theme=github_dark" alt="Profile Summary" />
+</td>
+</tr>
+</table>
 
 ---
 
