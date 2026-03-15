@@ -328,11 +328,11 @@ mindmap
 ## 🔥 **RECENT GITHUB ACTIVITY**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
-2. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
-3. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
-4. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
-5. ⬆️ Pushed undefined commit(s) to [NAMATOVU-CHRISTINE/Alumni_PortaL](https://github.com/NAMATOVU-CHRISTINE/Alumni_PortaL)<br>
+1. ⭐ Starred [NAMATOVU-CHRISTINE/Buffer-Overflow-Exploit-Development-Practice](https://github.com/NAMATOVU-CHRISTINE/Buffer-Overflow-Exploit-Development-Practice)<br>
+2. 🔱 Forked [NAMATOVU-CHRISTINE/Buffer-Overflow-Exploit-Development-Practice](https://github.com/NAMATOVU-CHRISTINE/Buffer-Overflow-Exploit-Development-Practice) from [freddiebarrsmith/Buffer-Overflow-Exploit-Development-Practice](https://github.com/freddiebarrsmith/Buffer-Overflow-Exploit-Development-Practice)<br>
+3. ⭐ Starred [freddiebarrsmith/Buffer-Overflow-Exploit-Development-Practice](https://github.com/freddiebarrsmith/Buffer-Overflow-Exploit-Development-Practice)<br>
+4. ⭐ Starred [NAMATOVU-CHRISTINE/Buffer_Overflow](https://github.com/NAMATOVU-CHRISTINE/Buffer_Overflow)<br>
+5. 🔱 Forked [NAMATOVU-CHRISTINE/Buffer_Overflow](https://github.com/NAMATOVU-CHRISTINE/Buffer_Overflow) from [gh0x0st/Buffer_Overflow](https://github.com/gh0x0st/Buffer_Overflow)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
