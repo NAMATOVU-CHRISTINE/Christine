@@ -175,7 +175,7 @@ class NamatovuChristine:
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NAMATOVU-CHRISTINE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0FA90F&icon_color=ffd700&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NAMATOVU-CHRISTINE&theme=radical&hide_border=true&background=0D1117&ring=0FA90F&fire=ffd700&currStreakLabel=0FA90F" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=NAMATOVU-CHRISTINE&theme=radical&hide_border=true&background=0D1117&ring=0FA90F&fire=ffd700&currStreakLabel=0FA90F" alt="GitHub Streak" />
 </p>
 
 <p align="center">
